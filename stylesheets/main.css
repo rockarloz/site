@@ -68,7 +68,7 @@ PHOTO (AVATAR)
   line-height: 1.5em;
 }
 #text-header h1 span{
-  color: blue;
+  color: #EC7263;
 }
 #text-header h1 sup{
   opacity: 0.5;
@@ -236,7 +236,7 @@ SKILLS
 *******************************************/
 .item-skills{
   height: 30px;
-  background: blue;
+  background: #EC7263;
   color: #fff;
   padding: 5px 10px;
   margin-bottom: 5px;
